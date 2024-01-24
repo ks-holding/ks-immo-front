@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "src": "/disponible",
+        "dest": "https://ks-immo-back-r83d07apu-ifeks.vercel.app/disponible",
+        "methods": ["GET", "POST"]
+      }
+    ]
+  }
